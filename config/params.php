@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'APIServer' => $_SERVER['SERVER_NAME'],
+    'APIServer' => 'http://neosoft.local.vi',
 ];
